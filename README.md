@@ -42,4 +42,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-View my site at :  https://yadavharsh2002.github.io/OIBSIP-Task-1-Landing-Page/
+View my site at : https://yadavharsh2002.github.io/Landing-Page/
